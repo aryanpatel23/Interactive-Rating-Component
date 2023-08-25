@@ -1,0 +1,112 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap'); */
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: hsl(228, 45%, 44%);
+}
+
+
+html {
+    background-color: rgb(0, 0, 0);
+}
+
+.container {
+    height: 330px;
+    width: 350px;
+    margin: auto;
+    margin-top: 10%;
+    background-color: rgba(37, 38, 49, 0.88);
+    border-radius: 10%;
+
+}
+
+.thank-you {
+    height: 400px;
+    width: 350px;
+    margin: auto;
+    margin-top: 10%;
+    align-content: center;
+    background-color: rgba(37, 38, 49, 0.88);
+    border-radius: 10%;
+}
+
+h3 {
+    color: rgb(238, 234, 234);
+    margin-left: 5%;
+}
+
+p {
+    color: rgb(183, 177, 177);
+    margin-left: 5%;
+}
+
+input {
+    /* margin: auto; */
+    border-radius: 39px;
+    padding: 10px;
+
+}
+
+.rating-btn {
+    border-radius: 100%;
+    margin-top: 5%;
+}
+
+.review-buttons button {
+    padding: 12px 17px;
+    font-size: 16px;
+    margin-left: 5%;
+
+}
+
+button:hover {
+    background-color: orange;
+}
+
+.submit-btn:hover {
+    background-color: white;
+}
+
+.submit-btn {
+    border-radius: 20px 20px 20px 20px;
+    padding: 9px 100px;
+    font-size: 16px;
+    border-inline-end-width: 2px;
+    margin-top: 10%;
+    margin-left: 12%;
+    background-color: orange;
+    display: flex;
+}
+
+.star {
+    background-color: rgb(54, 57, 56);
+    /* border-radius: 300px; */
+    margin-top: 6%;
+    margin-left: 6%;
+}
+
+.illustration {
+    margin-top: 10%;
+    margin-left: 24%;
+}
+
+
+.description {
+    text-align: center;
+    color: rgb(143, 141, 141);
+}
+
+.title {
+    color: orange;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 18%;
+    /* margin: 0 auto; */
+    border-radius: 20px 20px 20px 20px;
+    background-color: rgba(132, 129, 124, 0.095);
+    padding: 9px 10px;
+    border-inline-end-width: 2px;
+    width: 200px;
+
+}
